@@ -12,20 +12,6 @@ a {
   text-decoration: none;
 }
 
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
-}
-
 /** =============== HEADER =============== */
 .header {
 }
@@ -143,12 +129,12 @@ a {
 .team-list {
 }
 .team-item {
-    background-color: #FFFFFF
+  background-color: #ffffff;
 }
 .team-img {
 }
 .team-subtitle {
-  color #2e2f42;
+  color: #2e2f42;
   text-align: center;
   font-size: 20px;
   font-weight: 500;
@@ -208,7 +194,7 @@ a {
   text-transform: uppercase;
 }
 .logo-footer-color {
-    color: #f4f4fd;
+  color: #f4f4fd;
 }
 .footer-text {
   color: #f4f4fd;
