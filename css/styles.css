@@ -32,7 +32,7 @@ a {
 }
 .header-menu-list {
 }
-.header-menu-iteam {
+.header-menu-item {
 }
 .header-menu-link {
   color: #2e2f42;
@@ -50,7 +50,7 @@ a {
 }
 .header-address-list {
 }
-.header-address-list-iteam {
+.header-address-list-item {
 }
 .header-address-link {
   color: #434455;
@@ -98,16 +98,16 @@ a {
 }
 .features-list {
 }
-.features-iteam {
+.features-item {
 }
-.features-iteam-subtitle {
+.features-item-subtitle {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.features-iteam-text {
+.features-item-text {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
@@ -162,7 +162,7 @@ a {
 }
 .portfolio-list {
 }
-.portfolio-iteam {
+.portfolio-item {
 }
 .portfolio-img {
 }
